@@ -1,6 +1,7 @@
 # 自用备份
 # 生成docker镜像
 下载项目为zip，cd到解压的目录，然后运行这个命令就可以生成docker镜像了
+
 docker build -t luminoleon/epicgames-claimer .
 # EpicGames Claimer
 
